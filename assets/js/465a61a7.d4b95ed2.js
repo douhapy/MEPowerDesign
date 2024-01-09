@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkme_power_help=self.webpackChunkme_power_help||[]).push([[370],{1370:e=>{e.exports=JSON.parse('{"permalink":"/MEPowerDesign/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
