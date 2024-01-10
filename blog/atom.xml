@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://douhapy.github.io/MEPowerDesign/blog</id>
-    <title>MEPower设计文档 Blog</title>
+    <title>MEPower 设计文档 Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://douhapy.github.io/MEPowerDesign/blog"/>
-    <subtitle>MEPower设计文档 Blog</subtitle>
+    <subtitle>MEPower 设计文档 Blog</subtitle>
     <icon>https://douhapy.github.io/MEPowerDesign/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
